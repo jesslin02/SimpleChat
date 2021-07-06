@@ -40,4 +40,5 @@ dependencies {
     implementation 'com.squareup.okhttp3:logging-interceptor:3.8.1' // for logging API calls to LogCat
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
     implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'com.github.parse-community:ParseLiveQuery-Android:1.1.0' // for Parse Live Queries
 }
